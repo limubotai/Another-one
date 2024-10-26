@@ -1,18 +1,18 @@
 # Author
 
 <div align="center">
-  <img src="https://i.imgur.com/2Co5ddF.jpeg" alt="Profile Image" width="120" height="120" style="border-radius: 50%;">
+  <img src="https://i.imgur.com/7e2qY7W.jpeg" alt="Profile Image" width="120" height="120" style="border-radius: 50%;">
 </div>
 <div align="center">
-  <p><strong>Joshua Apostol</strong></p>
-</div>
-
-<div align="center">
-  <h2><strong>NASH BOT</strong></h2>
+  <p><strong>Limon Ahammed</strong></p>
 </div>
 
 <div align="center">
-  <p>Welcome to NASH BOT - your ultimate companion for managing Facebook group chats with ease!</p>
+  <h2><strong>CIKU BOT</strong></h2>
+</div>
+
+<div align="center">
+  <p>Welcome to CIKU BOT - your ultimate companion for managing Facebook group chats with ease!</p>
 </div>
 
 ## HOW TO MAKE COMMAND?
